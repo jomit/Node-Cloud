@@ -1,0 +1,20 @@
+<html>
+	<head>
+		<title>Ideas</title>
+         <script src="js/main.js" async></script>
+	</head>
+	<body>
+        <h1>Brilliant Ideas:</h1>
+        <br/>
+        <div>
+            <span>Select Category: </span>
+            <select data-bind="value: category,click: getData">
+                <option value="Health">Health</option>
+                <option value="Technology">Technology</option>
+            </select>
+        </div>
+        <br/>
+        <idea-list>
+        </idea-list>
+	</body>
+</html>

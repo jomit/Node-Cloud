@@ -1,0 +1,14 @@
+{
+  "name": "nodeondocker",
+  "version": "1.0.0",
+  "description": "First node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jomit V",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}

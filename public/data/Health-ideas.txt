@@ -1,0 +1,23 @@
+[
+    { 
+        "title": "Drinkable Book",
+        "url" : "https://drinkablebook.tilt.com/the-drinkable-book",
+        "upvotes" : 45,
+        "downvotes": 5,
+        "category" : "Health"  
+    },
+    { 
+        "title": "Cure all diseases by slowing down Aging",
+        "url" : "http://channel.nationalgeographic.com/breakthrough-series/videos/the-age-of-aging/",
+        "upvotes" : 107,
+        "downvotes": 35,
+        "category" : "Health"
+    },
+    { 
+        "title": "Be Vegan to save planet  (Watch Cowspiracy)",
+        "url" : "http://www.cowspiracy.com/",
+        "upvotes" : 67,
+        "downvotes": 47,
+        "category" : "Health"
+    }
+]

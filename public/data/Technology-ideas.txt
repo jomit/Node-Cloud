@@ -1,0 +1,16 @@
+[
+    { 
+        "title": "Self Driving Cars",
+        "url" : "http://www.google.com/selfdrivingcar/",
+        "upvotes" : 46,
+        "downvotes": 55,
+        "category" : "Technology"
+    },
+    { 
+        "title": "Mars Colonization",
+        "url" : "http://www.space.com/31388-elon-musk-colonize-mars-now.html",
+        "upvotes" : 35,
+        "downvotes": 21,
+        "category" : "Technology"
+    }
+]
