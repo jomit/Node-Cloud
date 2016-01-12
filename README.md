@@ -3,7 +3,7 @@ Sample code for using Node with Docker and Azure
 
 High Level steps for Azure Integration
 =================================================================
-Using Github:
+**Using Github:**
 
 1) Login to azure portal and create a new Web App
 
@@ -13,7 +13,7 @@ Using Github:
 
 4) Setup Authorization and Select the Project / Branch
 
-Using Local Git Repository: 
+**Using Local Git Repository:**
 
 1) Login to azure portal and create a new Web App
 
@@ -44,7 +44,7 @@ Using Local Git Repository:
 High Level steps for Docker Integration
 ====================================================================
 
-(Note: Install Docker Toolbox and run the following commands in docker terminal)
+(Note: Install [Docker Toolbox](https://www.docker.com/docker-toolbox) and run the following commands in docker terminal)
 
 1) Go to the directory containing the code.
 
