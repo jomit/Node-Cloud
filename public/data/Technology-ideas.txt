@@ -12,12 +12,5 @@
         "upvotes" : 35,
         "downvotes": 21,
         "category" : "Technology"
-    },
-	{ 
-        "title": "My new tech",
-        "url" : "http://nasa.gov",
-        "upvotes" : 60,
-        "downvotes": 2,
-        "category" : "Technology"
     }
 ]
