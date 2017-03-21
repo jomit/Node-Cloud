@@ -29,17 +29,16 @@ High Level steps for Azure Integration
 
 	- git init
 	- git add .
-	- git commit -m "<code comments here>"
-	- git remote add azure <url of the local git repository which should be displayed in web app properties>
+	- git commit -m "comments"
+	- git remote add azure [url of the local git repository which should be displayed in web app properties]
 	- git push azure master
 
 
 7) Push more changes after changes
 
 	- git add .
-	- git commit -m "<code comments here>"
+	- git commit -m "comments"
 	- git push azure master
-
 
 High Level steps for Docker Integration
 ====================================================================
